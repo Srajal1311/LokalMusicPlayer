@@ -9,3 +9,8 @@ perfectly synchronized across navigation and background states.
 
 The application uses a centralized playback state to ensure synchronization
 between the mini player and the full player across navigation and background states.
+
+## Trade-offs
+
+Due to limited time, the implementation prioritizes reliable playback
+and state synchronization over advanced UI animations and offline caching.
