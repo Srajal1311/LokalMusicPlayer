@@ -1,4 +1,4 @@
-// src/components/SongCard.tsx
+// src/components/SongCard.tsx                                                                                          //ingore
 
 import React from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
