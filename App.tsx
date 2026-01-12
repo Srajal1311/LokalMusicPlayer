@@ -1,3 +1,6 @@
+// Entry point for the Lokal Music Player application
+// Responsible for initializing navigation and global providers
+
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
@@ -15,3 +18,5 @@ export default function App() {
     </GestureHandlerRootView>
   );
 }
+//// Centralized playback state ensures UI consistency
+// between mini player and full player components
