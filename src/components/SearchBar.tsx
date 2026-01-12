@@ -1,4 +1,4 @@
-// src/components/SearchBar.tsx
+// src/components/SearchBar.tsx                                                                                       //ingore
 
 import React from 'react';
 import { View, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
