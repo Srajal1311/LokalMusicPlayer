@@ -27,3 +27,4 @@ export interface AlbumData {
   year: string;
   image: string;
 }
+//done
