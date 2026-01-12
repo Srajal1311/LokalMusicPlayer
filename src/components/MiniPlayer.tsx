@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';                                                                                            //ignore
 import { View, Text, Image, TouchableOpacity, StyleSheet, useColorScheme } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { usePlayerStore } from '../store/playerStore';
